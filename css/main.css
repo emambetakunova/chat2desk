@@ -17,7 +17,6 @@ html {
     height: 100%;
 }
 
-
 a{
     color:#40bcd8;
 }
@@ -91,7 +90,7 @@ h5{
     font-size: 14px;
     color: #f16836;
     border: 1px solid #f16836;
-    font-family: 'Titillium Web',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Titillium Web',"Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 300;
     padding: 10px 25px;
 }
@@ -109,7 +108,6 @@ h5{
 .agile-button {
     font-size: 14px;
     color: #f16836;
-
     font-family: 'Titillium Web',"Helvetica Neue",Helvetica,Arial,sans-serif;
     padding: 10px 25px;
 }
@@ -174,7 +172,6 @@ h5{
 
 .carousel-indicators.visible-xs li {
     border-color: #D29948;
-    border-width: 2px;
     height: 12px;
     margin: 0 5px 0 0;
     width: 12px;
@@ -285,7 +282,7 @@ h5{
 
 #header .navbar-brand{
     padding: 0;
-    margin-left: -10;
+    margin-left: -10px;
 }
 
 #header .navbar-brand h1{
@@ -354,7 +351,7 @@ ul.sub-menu {
 }
 
 #header .navbar-nav li ul.sub-menu li .active{
-    background: ##00a89c;
+    background: #00a89c;
     color: #fff;
     position: relative;
 
@@ -379,7 +376,6 @@ ul.sub-menu {
 #header .navbar-nav li ul.sub-menu li a:focus{
     background: #8bc53f;
     color: #fff;
-
 }
 
 .fa-angle-down{
@@ -494,17 +490,13 @@ ul.sub-menu {
 
 #footer {
     padding-bottom: 10px;
-    background-image: url(../images/home/footer.png);
-    background-repeat: repeat-x;
-    background-position: bottom;
+    background: url(../images/home/footer.png) repeat-x bottom;
     background-size: contain;
 }
 
 #footer2 {
     padding-bottom: 10px;
-    background-image: url(../images/home/footer2.png);
-    background-repeat: repeat-x;
-    background-position: bottom;
+    background: url(../images/home/footer2.png) repeat-x bottom;
     background-size: contain;
 }
 
@@ -790,11 +782,8 @@ ul.sub-menu {
 }
 
 #action {
-    background-image: url(../images/home/tour-bg.png);
-    background-color: #fbfafa;
-    background-repeat: repeat-x;
     height: 157px;
-    background-position: center;
+    background: #fbfafa url(../images/home/tour-bg.png) repeat-x center;
     display: table;
     position: static;
     width: 100%;
@@ -804,7 +793,7 @@ ul.sub-menu {
     display: table-cell;
     vertical-align: middle;
     width: 100%;
-    position: statice;
+    position: static;
 }
 
 .single-service{
@@ -912,11 +901,8 @@ ul.sub-menu {
 }
 
 #page-breadcrumb {
-    background-image: url(../images/home/tour-bg.png);
-    background-color: #fbfafa;
-    background-repeat: repeat-x;
     height: 130px;
-    background-position: center;
+    background: #fbfafa url(../images/home/tour-bg.png) repeat-x center;
     display: table;
     position: static;
     width: 100%;
@@ -943,23 +929,20 @@ ul.sub-menu {
     height: 85px;
 }
 .tour-button {
-    background-image: url(../images/home/tour-icon2.png);
     height: 100%;
-    background-repeat: no-repeat;
     position: absolute;
     width: 100%;
     left: 0;
-    background-position: 151px 4px;
+    background: url(../images/home/tour-icon2.png) no-repeat 151px 4px;
 }
 
 .demo-button {
     height: 100%;
-    background-repeat: no-repeat;
     position: absolute;
     width: 100%;
     left: 0;
-    margin-bottom: 20px auto;
-    background-position: 151px 4px;
+    margin-bottom: 20px;
+    background: no-repeat 151px 4px;
 }
 
 .about-image {
@@ -986,9 +969,7 @@ ul.sub-menu {
     top: 0;
     -webkit-transition: all 0.9s ease;
     -moz-transition: all 0.9s ease;
-    -ms-transition: all 0.9s ease;
     -o-transition: all 0.9s ease;
-    transition: all 0.9s ease;
     transition: all 0.9s ease 0s;
     width: 100%;
     height: 100%;
@@ -1001,7 +982,6 @@ ul.sub-menu {
     animation: fadeInUp 400ms;
     -webkit-transition: all 0.9s ease;
     -moz-transition: all 0.9s ease;
-    -ms-transition: all 0.9s ease;
     -o-transition: all 0.9s ease;
     transition: all 0.9s ease;
 }
@@ -1033,7 +1013,7 @@ ul.sub-menu {
 }
 
 .social-profile .nav-pills li a:hover {
-    color: #702position0;
+    color: #702340;
     border-color: #702340;
 }
 
@@ -1058,7 +1038,6 @@ ul.sub-menu {
     text-indent: -9999999px;
     -webkit-transition: all 0.9s ease;
     -moz-transition: all 0.9s ease;
-    -ms-transition: all 0.9s ease;
     -o-transition: all 0.9s ease;
     transition: all 0.9s ease;
 }
@@ -1077,7 +1056,6 @@ ul.sub-menu {
     background-position: 0 -18px;
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
-    -ms-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
     transition: all 0.5s ease;
 }
@@ -1094,7 +1072,6 @@ ul.sub-menu {
 .progress .progress-bar.six-sec-ease-in-out {
     -webkit-transition: width 1s ease-in-out;
     -moz-transition: width 1s ease-in-out;
-    -ms-transition: width 1s ease-in-out;
     -o-transition: width 1s ease-in-out;
     transition:  width 1s ease-in-out;
 }
@@ -1298,7 +1275,6 @@ ul.elements li > i{
 
 .portfolio-filter li a.active:before{
     position: absolute;
-
     content: "";
     left: 0;
     width: 13px;
@@ -1309,7 +1285,6 @@ ul.elements li > i{
 
 .portfolio-pagination{
     text-align: center;
-
     padding-top: 40px;
     padding-bottom: 90px;
 }
@@ -1327,10 +1302,8 @@ ul.elements li > i{
 }
 
 .pagination li:first-child a{
-    background: url(../images/portfolio/left.png);
-    background-repeat: no-repeat;
     text-indent: -999999999px;
-    background-position: center top 10px;
+    background: url(../images/portfolio/left.png) no-repeat center top 10px;
     width: 32px;
     height: 36px;
     border: none;
@@ -1341,9 +1314,7 @@ ul.elements li > i{
 }
 
 .pagination li:first-child a:hover{
-    background: url(../images/portfolio/left.png);
-    background-position: center top -37px;
-    background-repeat: no-repeat;
+    background: url(../images/portfolio/left.png) no-repeat center top -37px;
     -webkit-transition: 300ms;
     -moz-transition: 300ms;
     -o-transition: 300ms;
@@ -1351,10 +1322,8 @@ ul.elements li > i{
 }
 
 .pagination li:last-child a{
-    background: url(../images/portfolio/right.png);
-    background-repeat: no-repeat;
     text-indent: -999999999px;
-    background-position: center top 10px;
+    background: url(../images/portfolio/right.png) no-repeat center top 10px;
     width: 32px;
     height: 36px;
     border: none;
@@ -1365,9 +1334,7 @@ ul.elements li > i{
 }
 
 .pagination li:last-child a:hover{
-    background: url(../images/portfolio/right.png);
-    background-position: center top -37px;
-    background-repeat: no-repeat;
+    background: url(../images/portfolio/right.png) no-repeat center top -37px;
     -webkit-transition: 300ms;
     -moz-transition: 300ms;
     -o-transition: 300ms;
@@ -1414,7 +1381,6 @@ Portfolio with right sidebar
     font-size: 16px;
     color: #6a6a6a;
     padding: 8px 0;
-    padding-left: 0;
 }
 
 .categories .navbar-stacked li a:hover{
@@ -1432,9 +1398,8 @@ Portfolio with right sidebar
 .categories .navbar-stacked li.active a:before{
     position: absolute;
     content: "";
-    border-color: transparent transparent transparent #0099AE;
-    border-width: 8px;
-    border-style: solid;
+    border: 8px solid transparent;
+    border-left-color: #0099AE;
     left: 0;
     top: 13px;
     margin-top: 0;
@@ -1448,10 +1413,9 @@ Portfolio with right sidebar
 .categories .navbar-stacked li.active a:after {
     position: absolute;
     content: "";
-    border-color: transparent transparent transparent #fff;
-    border-width: 6px;
-    border-style: solid;
-    left: 0px;
+    border: 6px solid transparent;
+    border-left-color: #fff;
+    left: 0;
     top: 15px;
     margin-top: 0;
     z-index: 1;
@@ -1514,7 +1478,6 @@ Portfolio with right sidebar
 }
 
 .tag-cloud .nav-pills li{
-    margin: 0;
     margin-top: 6px;
     margin-right: 4px;
 }
@@ -1533,7 +1496,6 @@ Portfolio with right sidebar
 }
 
 .popular ul.gallery {
-    margin: 0;
     padding: 0;
     list-style: none;
     margin: 10px -8px;
@@ -1579,7 +1541,6 @@ Portfolio with right sidebar
 .isotope .isotope-item {
     -webkit-transition-duration: 0.8s;
     -moz-transition-duration: 0.8s;
-    -ms-transition-duration: 0.8s;
     -o-transition-duration: 0.8s;
     transition-duration: 0.8s;
 }
@@ -1587,7 +1548,6 @@ Portfolio with right sidebar
 .isotope {
     -webkit-transition-property: height, width;
     -moz-transition-property: height, width;
-    -ms-transition-property: height, width;
     -o-transition-property: height, width;
     transition-property: height, width;
 }
@@ -1595,7 +1555,6 @@ Portfolio with right sidebar
 .isotope .isotope-item {
     -webkit-transition-property: -webkit-transform, opacity;
     -moz-transition-property: -moz-transform, opacity;
-    -ms-transition-property: -ms-transform, opacity;
     -o-transition-property: -o-transform, opacity;
     transition-property: transform, opacity;
 }
@@ -1606,7 +1565,6 @@ Portfolio with right sidebar
 .isotope .isotope-item.no-transition {
     -webkit-transition-duration: 0s;
     -moz-transition-duration: 0s;
-    -ms-transition-duration: 0s;
     -o-transition-duration: 0s;
     transition-duration: 0s;
 }
@@ -1636,7 +1594,6 @@ Portfolio Details
 
 .navbar-default li a{
     font-size: 12px;
-    padding: 0;
     padding-right: 15px;
 }
 
@@ -1716,10 +1673,9 @@ Blog Default
 .post-overlay span:before{
     position: absolute;
     bottom: 0;
-    border-style: solid;
-    border-width: 60px;
     content: "";
-    border-color: transparent transparent #0884d5 transparent;
+    border: 60px solid transparent;
+    border-bottom-color: #0884d5;
     z-index: -1;
     cursor: initial;
 }
@@ -1747,10 +1703,8 @@ Blog Default
     position: absolute;
     top: 0;
     content: "";
-    border-left-style: solid;
-    border-left-width: 1px;
     height: 100%;
-    border-left-color: #0099AE;
+    border-left: 1px solid #0099AE;
     left: 50%;
     margin-left: -2px;
 }
@@ -1830,8 +1784,6 @@ a.read-more:hover{
 
 .post-bottom{
     border-top: 1px solid #eeeeee;
-    padding-top: 10px;
-    margin-top: 20px;
     margin: 20px -20px 0;
     padding: 20px 20px 0;
 }
@@ -1877,8 +1829,7 @@ Blog with right sidebar
 }
 
 .single-blog .post-overlay span:before{
-    border-color: transparent;
-    border-width: 0;
+    border: 0 transparent;
 }
 
 .post-nav{
@@ -2147,17 +2098,13 @@ span.stButton_gradient,
 }
 
 .corporate-info .corporate-address {
-    background-image: url("../images/contact-bg.png");
-    background-position: left top;
-    background-repeat: no-repeat;
+    background: url("../images/contact-bg.png") no-repeat left top;
     overflow: hidden;
     padding-bottom: 50px;
 }
 
 .corporate-info .corporate-address address {
-    background-image: url("../images/icon-map.png");
-    background-position: left top;
-    background-repeat: no-repeat;
+    background: url("../images/icon-map.png") no-repeat left top;
     padding-left: 40px;
 }
 
@@ -2211,7 +2158,6 @@ span.stButton_gradient,
     background-color: #6c825f;
 }
 
-
 .single-price .plan-price {
     color: #fff;
     float: none;
@@ -2241,8 +2187,7 @@ span.stButton_gradient,
 .price-two .plan-price:after,
 .price-three .plan-price:after,
 .price-four .plan-price:after  {
-    border-style: solid;
-    border-width: 110px;
+    border: 110px solid;
     content: "";
     height: 0;
     left:50%;
@@ -2541,9 +2486,7 @@ span.stButton_gradient,
 }
 
 .bg-404 {
-    background-image: url("../images/home/tour-bg.png");
-    background-repeat: repeat-x;
-    background-position: center top;
+    background: url("../images/home/tour-bg.png") repeat-x center top;
 }
 
 .error-image {
@@ -2590,7 +2533,6 @@ span.stButton_gradient,
     border-radius: 50%;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
-    -ms-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
@@ -2600,7 +2542,6 @@ span.stButton_gradient,
     color: #fff;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
-    -ms-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
@@ -2630,9 +2571,7 @@ span.stButton_gradient,
 }
 
 .bg-404 {
-    background-image: url("../images/404-bg.png");
-    background-repeat: repeat-x;
-    background-position: center top;
+    background: url("../images/404-bg.png") repeat-x center top;
 }
 
 .error-image {
@@ -2681,7 +2620,6 @@ span.stButton_gradient,
     border-radius: 50%;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
-    -ms-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
@@ -2694,7 +2632,6 @@ span.stButton_gradient,
 #coming-soon i.fa-google-plus:hover {
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
-    -ms-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
@@ -2743,9 +2680,7 @@ span.stButton_gradient,
 }
 
 #coming-soon {
-    background-image: url("../images/coming-soon-bg.png");
-    background-position: center top;
-    background-repeat: repeat-x;
+    background: url("../images/coming-soon-bg.png") repeat-x center top;
     padding: 40px 0;
     overflow: hidden;
 }
@@ -2776,8 +2711,7 @@ span.stButton_gradient,
     width: 25%;
     text-align: center;
     height: 254px;
-    background-position: 50% 0;
-    background-repeat: no-repeat;
+    background: no-repeat 50% 0;
     background-size: contain !important;
     position: relative;
     color: #fff;
