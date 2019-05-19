@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="80px" height="85px" viewBox="0 0 80 85" enable-background="new 0 0 80 85" xml:space="preserve">
+<circle fill="#009999" cx="40.281" cy="42.948" r="38.948"/>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="52.93" y="63.818" width="28.555" height="16.315">
+		<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+		<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="52.93" y="63.818" width="28.555" height="16.315" id="SVGID_1_">
+	<g filter="url(#Adobe_OpacityMaskFilter)">
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="35.999" y="25.754" width="47.995" height="63.135">
+				<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+				<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="35.999" y="25.754" width="47.995" height="63.135" id="SVGID_1_">
+			<g filter="url(#Adobe_OpacityMaskFilter_1_)">
+			</g>
+		</mask>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="32.6006" y1="37.1772" x2="73.1065" y2="77.5133">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.0629" style="stop-color:#DADADA"/>
+			<stop  offset="0.1601" style="stop-color:#A7A7A7"/>
+			<stop  offset="0.2621" style="stop-color:#7B7B7B"/>
+			<stop  offset="0.3668" style="stop-color:#555555"/>
+			<stop  offset="0.475" style="stop-color:#363636"/>
+			<stop  offset="0.5878" style="stop-color:#1E1E1E"/>
+			<stop  offset="0.7072" style="stop-color:#0D0D0D"/>
+			<stop  offset="0.8376" style="stop-color:#030303"/>
+			<stop  offset="1" style="stop-color:#000000"/>
+		</linearGradient>
+		<polygon mask="url(#SVGID_1_)" fill="url(#SVGID_2_)" points="61.685,88.889 35.999,63.203 43.977,25.754 83.994,66.579 		"/>
+	</g>
+</mask>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="64.1172" y1="68.8994" x2="70.2973" y2="75.0536">
+	<stop  offset="0" style="stop-color:#231F20"/>
+	<stop  offset="0.0896" style="stop-color:#231F20"/>
+	<stop  offset="1" style="stop-color:#231F20"/>
+</linearGradient>
+<line opacity="0.5" fill="url(#SVGID_3_)" x1="81.484" y1="63.818" x2="52.93" y2="80.134"/>
+<g id="paper">
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M21.547,15.589l37.255,0.021L58.773,68.3l-37.256-0.021
+			L21.547,15.589z"/>
+		<g>
+			<path fill="#A6DAE9" d="M44.396,43.305c-0.2,0.618-0.522,1.175-0.954,1.642l3.258,4.547c1.646-1.419,2.829-3.357,3.276-5.57
+				L44.396,43.305z"/>
+			<path fill="#F99B1C" d="M41.072,37.536c1.898,0.396,3.335,1.996,3.524,3.959l5.571,0.615c0-0.063,0.008-0.124,0.008-0.189
+				c0-5.221-4-9.506-9.104-9.968V37.536z"/>
+			<path fill="#15B0BF" d="M36.864,38.919c0.62-0.687,1.441-1.186,2.388-1.383v-5.583c-2.974,0.267-5.559,1.835-7.214,4.126
+				L36.864,38.919z"/>
+			<path fill="#4C8EB4" d="M41.968,46.01c-0.554,0.248-1.163,0.39-1.807,0.39c-2.472,0-4.476-2.007-4.476-4.479
+				c0-0.504,0.102-0.979,0.255-1.432l-4.825-2.843c-0.613,1.298-0.971,2.744-0.971,4.275c0,5.533,4.484,10.015,10.017,10.015
+				c1.846,0,3.572-0.505,5.057-1.382L41.968,46.01z"/>
+		</g>
+		<g>
+			<rect x="25.399" y="19.141" fill="#F99B1C" width="4.662" height="1.356"/>
+			<rect x="25.399" y="22.232" fill="#15B0BF" width="4.662" height="1.357"/>
+			<rect x="25.399" y="25.324" fill="#A6DAE9" width="4.662" height="1.356"/>
+			<rect x="25.399" y="28.416" fill="#4C8EB4" width="4.662" height="1.356"/>
+			<rect x="33.217" y="19.208" fill="#CCCCCC" width="21.704" height="1.526"/>
+			<rect x="33.217" y="23.77" fill="#CCCCCC" width="21.704" height="1.525"/>
+			<rect x="33.217" y="28.332" fill="#CCCCCC" width="21.704" height="1.524"/>
+			<rect x="33.217" y="26.051" fill="#CCCCCC" width="21.704" height="1.524"/>
+			<rect x="33.217" y="21.49" fill="#CCCCCC" width="21.704" height="1.524"/>
+		</g>
+		<g>
+			<rect x="25.399" y="53.328" fill="#CCCCCC" width="0.987" height="10.482"/>
+			<rect x="25.399" y="63.811" fill="#CCCCCC" width="29.522" height="0.986"/>
+			<g>
+				<rect x="28.976" y="59.149" fill="#15B0BF" width="2.643" height="4.661"/>
+				<rect x="28.976" y="56.818" fill="#A6DAE9" width="2.643" height="2.331"/>
+			</g>
+			<g>
+				<rect x="33.904" y="57.131" fill="#15B0BF" width="2.644" height="6.68"/>
+				<rect x="33.904" y="55.795" fill="#A6DAE9" width="2.644" height="1.336"/>
+			</g>
+			<g>
+				<rect x="38.833" y="60.419" fill="#15B0BF" width="2.643" height="3.392"/>
+				<rect x="38.833" y="57.983" fill="#A6DAE9" width="2.643" height="2.436"/>
+			</g>
+			<g>
+				<rect x="43.762" y="61.868" fill="#15B0BF" width="2.643" height="1.942"/>
+				<rect x="43.762" y="59.927" fill="#A6DAE9" width="2.643" height="1.941"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="magnifying_glass">
+	<path opacity="0.1" fill="#FFFFFF" d="M48.612,57.631c-0.818,0.818-1.27,1.904-1.271,3.058c-0.005,2.392,1.937,4.34,4.327,4.344
+		c1.161,0.002,2.252-0.449,3.075-1.272l0,0c0.818-0.818,1.27-1.903,1.271-3.056c0.003-1.156-0.448-2.245-1.267-3.067
+		c-0.819-0.822-1.907-1.275-3.063-1.278C50.525,56.357,49.436,56.809,48.612,57.631L48.612,57.631z"/>
+	<g>
+		<g>
+			<path fill="none" d="M55.306,64.321"/>
+		</g>
+		<g>
+			<path fill="#A6DAE9" d="M54.454,64.024c0.048-0.04,0.096-0.081,0.142-0.125C54.55,63.943,54.502,63.984,54.454,64.024z"/>
+			<path fill="#A6DAE9" d="M54.606,63.892c0.046-0.043,0.092-0.087,0.137-0.132C54.698,63.805,54.652,63.849,54.606,63.892z"/>
+			<path opacity="0.6" fill="#FFFFFF" d="M48.612,57.631c0.734-0.733,1.685-1.173,2.704-1.257c-0.199,0.018-0.396,0.047-0.589,0.09
+				c-0.472,0.214-0.907,0.512-1.284,0.891c-0.818,0.817-1.27,1.903-1.271,3.057c-0.005,2.392,1.938,4.339,4.328,4.345
+				c0.325,0,0.646-0.036,0.957-0.105c0.353-0.159,0.686-0.367,0.989-0.62c-0.78,0.65-1.752,1.004-2.778,1.002
+				c-2.391-0.004-4.332-1.952-4.327-4.344C47.343,59.535,47.794,58.449,48.612,57.631z"/>
+			<path fill="#A6DAE9" d="M51.323,56.374c0.035-0.003,0.068-0.006,0.104-0.008C51.392,56.369,51.358,56.37,51.323,56.374z"/>
+			<path fill="#A6DAE9" d="M51.447,56.365c0.031-0.001,0.062-0.003,0.093-0.004C51.509,56.362,51.479,56.363,51.447,56.365z"/>
+			<path fill="#A6DAE9" d="M51.567,56.36c0.039-0.001,0.078-0.002,0.117-0.002C51.646,56.358,51.606,56.359,51.567,56.36z"/>
+		</g>
+		<g>
+			<path fill="#0E303F" d="M57.014,66.078c-0.291,0.29-0.763,0.289-1.054-0.002l-0.929-0.959c-0.29-0.292-0.289-0.763,0.001-1.053
+				c0,0,0.001-0.001,0.002-0.002c0.291-0.29,0.763-0.29,1.054,0.002l0.929,0.96c0.29,0.29,0.29,0.762-0.001,1.052
+				C57.016,66.076,57.015,66.077,57.014,66.078z"/>
+		</g>
+	</g>
+	<path fill="#2C5871" d="M45.85,60.687c-0.007,3.212,2.604,5.831,5.816,5.837c1.559,0.003,3.026-0.604,4.131-1.71l0,0
+		c1.1-1.099,1.706-2.558,1.708-4.107c0.003-1.555-0.602-3.019-1.701-4.121c-1.1-1.104-2.562-1.714-4.116-1.717
+		c-1.559-0.002-3.025,0.604-4.13,1.709C46.459,57.676,45.853,59.136,45.85,60.687z M47.341,60.688
+		c0.002-1.153,0.453-2.239,1.271-3.058c0.823-0.822,1.913-1.273,3.072-1.272c1.156,0.003,2.244,0.456,3.063,1.278
+		c0.818,0.822,1.27,1.911,1.267,3.067c-0.002,1.152-0.453,2.237-1.271,3.056c-0.823,0.823-1.914,1.274-3.075,1.272
+		C49.277,65.028,47.336,63.08,47.341,60.688z"/>
+	
+		<rect x="58.271" y="64.126" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 150.6948 75.2189)" fill="#103754" width="2.997" height="9.386"/>
+	
+		<rect x="58.891" y="64.126" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 150.6948 75.2189)" fill="#2C5871" width="1.755" height="9.386"/>
+	
+		<rect x="61.079" y="70.91" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 157.478 78.0293)" fill="#0E303F" width="2.998" height="1.439"/>
+	
+		<rect x="61.701" y="70.91" transform="matrix(-0.7068 0.7074 -0.7074 -0.7068 157.4805 77.992)" fill="#164866" width="1.756" height="1.44"/>
+	<g>
+		<path opacity="0.6" fill="#FFFFFF" d="M53.645,57.616c-1.037-0.513-2.211-0.591-3.304-0.224c-0.38,0.128-0.729,0.305-1.046,0.519
+			l0.32,0.85c0.369-0.284,0.789-0.513,1.255-0.67c1.093-0.368,2.267-0.289,3.304,0.223c0.478,0.236,0.907,0.564,1.26,0.942
+			C55.011,58.557,54.397,57.988,53.645,57.616z"/>
+	</g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
