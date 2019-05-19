@@ -485,6 +485,51 @@ ul.sub-menu {
 }
 
 /*************************
+*******Price******
+**************************/
+
+.price-jumbotron {
+    margin-bottom: 40px;
+    padding: 2% 0;
+}
+.price-jumbotron p {
+    color: #FFFFFF;
+    border-bottom: 1px solid #FFFFFF;
+    padding: 3%;
+}
+
+.price-jumbotron h6 {
+    color: #FFFFFF;
+}
+.price-jumbotron {
+    background: url(../images/circle.png) top right no-repeat #1c77c3;
+}
+
+.price-jumbotron>.container>.row h2 {
+    text-align: right;
+    color: #FFFFFF;
+}
+
+.price-jumbotron h2 span {
+    font-size: 140px;
+    line-height: 120px;
+    font-weight: 700;
+}
+
+.price {
+    background-color: transparent;
+    color: #fff;
+    font-size: 36px;
+    text-align: center;
+}
+
+.price-jumbotron p span:last-of-type {
+    float: right;
+    width: 22%;
+    display: block;
+    font-size: 20px;
+}
+/*************************
 *******Footer******
 **************************/
 
