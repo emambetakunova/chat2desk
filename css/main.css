@@ -420,25 +420,12 @@ ul.sub-menu {
 /*************************
 *******Clients******
 **************************/
-.client-list {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: space-around;
-    margin-top: 40px;
-}
 
 .client-img img {
     display: block;
-    width: 80%;
-    padding: 5%;
+    width: 100%;
     height: auto;
-}
-
-.client-list .client-img {
-    flex-basis: 33.3%;
-    padding: 0 20px 0 20px;
+    padding: 10%;
 }
 
 .chat-bot-box {
@@ -483,6 +470,106 @@ ul.sub-menu {
 .orderChat tr td input {
     margin-top: 10px;
 }
+
+.eform{
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+.eform .content{
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 7px;
+    padding: 20px 20px 50px 20px;
+    background-color: rgba(255, 255, 255, 0.58);
+}
+.eform-title{
+    text-align: center;
+    font-size: 30px;
+    color: #1c77c3;
+    margin: 0 0 40px 0 !important;
+    font-weight: bold;
+    display: block!important;
+    width: 100% !important;
+}
+.eform .content input, .eform .content select{
+    background-color: #fff;
+    padding: 15px 10px;
+    text-align: center;
+    border: 1px solid #ccc;
+    color: #000;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 100%;
+}
+
+.eform .content .fileChoose{
+    border: none;
+}
+
+.eform .wpcf7 .ajax-loader{
+    display: none;
+}
+input::placeholder{
+    color: #000;
+}
+.eform .wpcf7 .wpcf7-not-valid-tip{
+    display: none;
+}
+.eform .wpcf7  .in p{
+    display: inline-block;
+    width: 29%;
+    margin: 0 16px;
+}
+.eform .content input[type="submit"]{
+    background-color: #1c77c3;
+    color: #fff;
+    transition: 0.3s;
+    letter-spacing: 1px;
+    display: block;
+    font-weight: bold;
+    width: auto;
+    margin: 0 auto;
+    min-width: 200px;
+}
+.eform .content input[type="submit"]:hover{
+    background-color: #199fe8;
+    transition: 0.3s;
+}
+.eform .content form{
+    margin: 0 auto;
+    /*max-width: 290px;*/
+}
+.eform .content table{
+    width: 100%;
+}
+.eform .content table input, .eform .content table select{
+    margin-bottom: 15px;
+}
+
+@media (min-width: 481px) {
+    .eform .content form {
+        padding: 0 20px;
+    }
+    .eform td{
+        padding: 0 15px;
+        width: 50%;
+    }
+    .eform .content input[type="submit"]{
+        min-width: 220px;
+    }
+}
+
+@media (max-width: 480px){
+    .eform td{
+        width: 100%;
+        display: block;
+    }
+    .price-jumbotron p span:last-of-type {
+        width: 36%;
+    }
+}
+
 
 /*************************
 *******Price******
@@ -705,7 +792,7 @@ ul.sub-menu {
     padding-bottom: 15px;
 }
 .copyright-text a {
-    color: #3e848a
+    color: #1c77c3;
 }
 
 .copyright-text p {
@@ -906,7 +993,6 @@ ul.sub-menu {
 }
 
 .single-features:last-child {
-    padding-bottom: 95px;
     padding-top: 0;
 }
 
@@ -934,6 +1020,9 @@ ul.sub-menu {
 .clients-logo {
     overflow: hidden;
     margin-bottom: 10px;
+}
+.fa-check-square {
+    color: #55dcaa;
 }
 
 /*************************
@@ -2930,6 +3019,11 @@ span.stButton_gradient,
 
 .w-col-2 {
     width: 16.66666667%;
+}
+
+.row-business-icons .col-sm-3 img {
+    max-width: 150px;
+    padding: 10px 0;
 }
 .row-business-icons {
     text-align: center;
