@@ -441,6 +441,7 @@ ul.sub-menu {
     color: #1c77c3;
     font-size: 30px;
     text-align: center;
+    padding: 0 20px;
 }
 
 .crm-title {
@@ -469,6 +470,24 @@ ul.sub-menu {
 
 .orderChat tr td input {
     margin-top: 10px;
+}
+
+.orderBtn {
+    background-color: #1c77c3;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 10px;
+    transition: 0.3s;
+    letter-spacing: 1px;
+    font-weight: bold;
+    width: auto;
+    min-width: 200px;
+    margin: 20px auto 20px 50%;
+    transform: translateX(-50%);
+}
+
+.orderBtn a {
+    color: #ffffff;
 }
 
 .eform{
@@ -521,7 +540,7 @@ input::placeholder{
     width: 29%;
     margin: 0 16px;
 }
-.eform .content input[type="submit"]{
+.eform .content input[type="submit"] {
     background-color: #1c77c3;
     color: #fff;
     transition: 0.3s;
